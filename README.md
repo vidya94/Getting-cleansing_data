@@ -6,8 +6,11 @@ Content
 The repository contains
 
 README.txt file
+
 a script run_analysis.R
+
 clean data in tidy_data.txt.
+
 Goal
 
 The purpose of the run_analysiss.R script is to:
